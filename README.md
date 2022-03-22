@@ -1,4 +1,4 @@
-# Openwrt-WNDR4300V1
+# Openwrt-WNDR4300V1-WNDR3700V4
 自用固件
 
 Lienol's OpenWrt source https://github.com/jasonshen1984/Lienol.git
